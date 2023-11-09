@@ -1,0 +1,92 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Product 1",
+      "available": true,
+      "price": 50.99,
+      "category": "Flowers",
+      "photo": "http://source.unsplash.com/random/200x200/?flowers"
+    },
+    {
+      "id": 2,
+      "name": "Product 2",
+      "available": false,
+      "price": 29.99,
+      "category": "Plants",
+      "photo": "http://source.unsplash.com/random/200x200/?plants"
+    },
+    {
+      "id": 3,
+      "name": "Product 3",
+      "available": true,
+      "price": 19.99,
+      "category": "Gifts",
+      "photo": "http://source.unsplash.com/random/200x200/?gifts"
+    },
+    {
+      "id": 4,
+      "name": "Product 4",
+      "available": true,
+      "price": 39.99,
+      "category": "Accessories",
+      "photo": "http://source.unsplash.com/random/200x200/?accessories"
+    },
+    {
+      "id": 5,
+      "name": "Product 5",
+      "available": false,
+      "price": 49.99,
+      "category": "Flowers",
+      "photo": "http://source.unsplash.com/random/200x200/?flowers"
+    },
+    {
+      "id": 6,
+      "name": "Product 6",
+      "available": true,
+      "price": 34.99,
+      "category": "Plants",
+      "photo": "http://source.unsplash.com/random/200x200/?plants"
+    },
+    {
+      "id": 7,
+      "name": "Product 7",
+      "available": true,
+      "price": 24.99,
+      "category": "Gifts",
+      "photo": "http://source.unsplash.com/random/200x200/?gifts"
+    },
+    {
+      "id": 8,
+      "name": "Product 8",
+      "available": false,
+      "price": 44.99,
+      "category": "Accessories",
+      "photo": "http://source.unsplash.com/random/200x200/?accessories"
+    },
+    {
+      "id": 9,
+      "name": "Product 9",
+      "available": true,
+      "price": 59.99,
+      "category": "Flowers",
+      "photo": "http://source.unsplash.com/random/200x200/?flowers"
+    },
+    {
+      "id": 10,
+      "name": "Product 10",
+      "available": false,
+      "price": 19.99,
+      "category": "Plants",
+      "photo": "http://source.unsplash.com/random/200x200/?plants"
+    },
+    {
+      "id": "11",
+      "name": "love",
+      "available": "yes",
+      "price": "2.55",
+      "category": "flower",
+      "photo": "http://source.unsplash.com/random/200x200/?portrait"
+    }
+  ]
+}
